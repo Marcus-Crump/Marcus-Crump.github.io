@@ -121,7 +121,7 @@ a {
       color: inherit; }
 
 strong, b {
-  color: #e1e1e1;
+  color: #d7d7d7;
   font-weight: 600; }
 
 em, i {
@@ -131,7 +131,7 @@ p {
   margin: 0 0 2em 0; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #e1e1e1;
+  color: #d7d7d7;
   font-family: "Roboto Slab", serif;
   font-weight: 700;
   line-height: 1.5;
@@ -1011,7 +1011,7 @@ form {
   margin: 0 0 2em 0; }
 
 label {
-  color: #e1e1e1;
+  color: #d7d7d7;
   display: block;
   font-size: 0.9em;
   font-weight: 600;
@@ -1068,7 +1068,7 @@ select {
   padding-right: 2.75em;
   text-overflow: ellipsis; }
   select option {
-    color: #e1e1e1;
+    color: #d7d7d7;
     background: #ffffff; }
   select:focus::-ms-value {
     background-color: transparent; }
@@ -1139,8 +1139,8 @@ input[type="radio"] {
       width: 2.0625em; }
   input[type="checkbox"]:checked + label:before,
   input[type="radio"]:checked + label:before {
-    background: #e1e1e1;
-    border-color: #e1e1e1;
+    background: #d7d7d7;
+    border-color: #d7d7d7;
     color: #ffffff;
     content: '\f00c'; }
   input[type="checkbox"]:focus + label:before,
@@ -1454,7 +1454,7 @@ table {
   table td {
     padding: 0.75em 0.75em; }
   table th {
-    color: #e1e1e1;
+    color: #d7d7d7;
     font-size: 0.9em;
     font-weight: 600;
     padding: 0 0.75em 0.75em 0.75em;
@@ -2198,7 +2198,7 @@ button,
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  color: #e1e1e1;
+  color: #d7d7d7;
   font-family: "Roboto Slab", serif;
   font-weight: 400;
   letter-spacing: 0.075em;
